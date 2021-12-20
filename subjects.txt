@@ -1,0 +1,6 @@
+Tamil
+English
+Mathematics
+Physics
+Chemistry
+Computer Science
